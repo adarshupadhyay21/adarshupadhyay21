@@ -17,4 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshupadhyay21&show_icons=true&locale=en" alt="adarshupadhyay21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshupadhyay21&" alt="adarshupadhyay21" /></p>
+![](./profile-3d-contrib/profile-green-animate.svg)
 
