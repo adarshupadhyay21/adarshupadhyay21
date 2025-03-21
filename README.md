@@ -19,6 +19,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshupadhyay21&" alt="adarshupadhyay21" /></p>
 ### 🏆 GitHub Profile 3D Contribution Heatmap
 
-![3D Contribution Heatmap](https://raw.githubusercontent.com/adarshupadhyay21/adarshupadhyay21/99563193ed1215d9eb4f869afe8d3c95c4b17495/profile-3d-contrib/profile-green-animate.svg)
+![3D Contribution Heatmap](https://github.com/adarshupadhyay21/adarshupadhyay21/blob/main/profile-3d-contrib/profile-night-green.svg)
 
 
