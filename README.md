@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Adarsh Upadhyay! 👋</h1> <h3 align="center">🚀 ML Enthusiast | Software Developer | Full-Stack Learner</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=adarshupadhyay21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632f5a702b0fdf2/68747470733a2f2fres.cloudinary.com%2fpracticaldev%2fimage%2ffetch%2fs--FOQjQ8bu--%2fc_imagga_scale%2cf_auto%2cq_auto%2fw_1000%2fhttps%3a%2f%2fdev-to-uploads.s3.amazonaws.com%2fuploads%2farticles%2fntpzx0olxlkphn5ms0r2.gif" alt="Coding GIF" width="100%" />
 
-🌱 Currently learning: ReactJs, NodeJs, Machine Learning, Cloud & DevOps
+🌱 Currently learning: **ReactJs, NodeJs, Machine Learning, Cloud & DevOps**
 
-💡 Tech Interests: Full-Stack Development, AI/ML, Cloud Computing
+💡 Tech Interests: **Full-Stack Development, AI/ML, Cloud Computing**
 
 📫 How to reach me: adarsh.97200114@gmail.com
 
