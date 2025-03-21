@@ -1,24 +1,25 @@
-<h1 align="center">Hi 👋, I'm Adarsh Upadhyay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there, I'm Adarsh Upadhyay! 👋</h1> <h3 align="center">🚀 ML Enthusiast | Software Developer | Full-Stack Learner</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=adarshupadhyay21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632f5a702b0fdf2/68747470733a2f2fres.cloudinary.com%2fpracticaldev%2fimage%2ffetch%2fs--FOQjQ8bu--%2fc_imagga_scale%2cf_auto%2cq_auto%2fw_1000%2fhttps%3a%2f%2fdev-to-uploads.s3.amazonaws.com%2fuploads%2farticles%2fntpzx0olxlkphn5ms0r2.gif" alt="Coding GIF" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshupadhyay21&label=Profile%20views&color=0e75b6&style=flat" alt="adarshupadhyay21" /> </p>
+🌱 Currently learning: ReactJs, NodeJs, Machine Learning, Cloud & DevOps
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshupadhyay21" alt="adarshupadhyay21" /></a> </p>
+💡 Tech Interests: Full-Stack Development, AI/ML, Cloud Computing
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+📫 How to reach me: adarsh.97200114@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+🌍 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/adarshupadhyay21/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://leetcode.com/u/adarshupadhyay21/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshupadhyay21&show_icons=true&locale=en&layout=compact" alt="adarshupadhyay21" /></p>
+⚙️ Tech Stack:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshupadhyay21&show_icons=true&locale=en" alt="adarshupadhyay21" /></p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,css,docker,express,git,html,java,javascript,kubernetes,mongodb,mysql,nextjs,nodejs,postgresql,postman,pytorch,react,scikit-learn,selenium,tailwind,typescript,tensorflow&theme=dark" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshupadhyay21&" alt="adarshupadhyay21" /></p>
-### 🏆 GitHub Profile 3D Contribution Heatmap
+📊 GitHub Stats:
 
-![3D Contribution Heatmap](https://github.com/adarshupadhyay21/adarshupadhyay21/blob/main/profile-3d-contrib/profile-night-green.svg)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adarshupadhyay21&show_icons=true&theme=dark&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshupadhyay21&theme=dark&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshupadhyay21&show_icons=true&theme=dark&locale=en&layout=compact" width="48%" /> </p>
 
+🏆 3D Contribution Heatmap:
+
+<p align="center"> <img src="https://github.com/adarshupadhyay21/adarshupadhyay21/blob/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Heatmap" /> </p>
+🎯 Fun Fact
+💡 "The best way to predict the future is to create it!" 🚀
 
