@@ -11,7 +11,7 @@
 
 ⚙️ Tech Stack:
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=aws,css,docker,express,git,html,java,javascript,kubernetes,mongodb,mysql,nextjs,nodejs,postgresql,postman,pytorch,react,scikit-learn,selenium,tailwind,typescript,tensorflow&theme=dark" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,css,docker,express,git,html,java,javascript,kubernetes,mongodb,mysql,nextjs,nodejs,postgresql,postman,pytorch,react,tailwind,typescript,tensorflow&theme=dark" /> </p>
 
 📊 GitHub Stats:
 
